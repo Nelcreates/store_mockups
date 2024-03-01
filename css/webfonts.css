@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Helvetica Neue LT W05\ 55 Roman;
+    font-display: swap;
+    src: url(/fonts/08b57253-2e0d-4c12-9c57-107f6c67bc49.woff2) format("woff2"), url(/fonts/08edde9d-c27b-4731-a27f-d6cd9b01cd06.woff) format("woff")
+}
+
+@font-face {
+    font-family: Helvetica Neue LT W05\ 56 Italic;
+    font-display: swap;
+    src: url(/fonts/4bd56f95-e7ab-4a32-91fd-b8704cbd38bc.woff2) format("woff2"), url(/fonts/4fe1c328-1f21-434a-8f0d-5e0cf6c70dfb.woff) format("woff")
+}
+
+@font-face {
+    font-family: Helvetica Neue LT W05\ 65 Medium;
+    font-display: swap;
+    src: url(/fonts/240c57a0-fdce-440d-9ce3-85e0cb56f470.woff2) format("woff2"), url(/fonts/7802e576-2ffa-4f22-a409-534355fbea79.woff) format("woff")
+}
+
+@font-face {
+    font-family: Helvetica Neue LT W05_75 Bold;
+    font-display: swap;
+    src: url(/fonts/800da3b0-675f-465f-892d-d76cecbdd5b1.woff2) format("woff2"), url(/fonts/5664150/7b415a05-784a-4a4c-8c94-67e9288312f5.woff) format("woff")
+}
+
+@font-face {
+    font-family: FontAwesome;
+    src: url(/fonts/fontawesome-webfont?v=4.7.0);
+    src: url(/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"), url(/fonts/fontawesome-webfont.woff2?v=4.7.0) format("woff2"), url(/fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"), url(/fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"), url(/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
